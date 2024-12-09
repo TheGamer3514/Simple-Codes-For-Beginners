@@ -1,6 +1,6 @@
 # Simple Codes for Beginners
 
-Welcome to the **Simple Codes for Beginners** repository! This is a great place to find simple code examples to help you get started on your coding journey. Whether you're just learning the basics or looking for a quick reference, you'll find a variety of beginner-friendly code snippets here. Currently, the repository includes examples in Python, JavaScript, Java, PHP and HTML.
+Welcome to the **Simple Codes for Beginners** repository! This is a great place to find simple code examples to help you get started on your coding journey. Whether you're just learning the basics or looking for a quick reference, you'll find a variety of beginner-friendly code snippets here. Currently, the repository includes examples in C#, GoLang, HTML, Java, JavaScript, PHP and Python. It also includes a few discord bot examples.
 
 ## 🎯 Purpose
 
