@@ -8,4 +8,4 @@ The goal of this repository is to showcase how simple and accessible programming
 
 ## 🚀 Contributing
 
-Have your own codes you want to add? Feel free to make a pull request! Contributions that follow the beginner-friendly spirit of this repository are welcome.
+Have your own codes you want to add? Feel free to make a pull request! Contributions that follow the beginner-friendly spirit of this repository are welcome!
